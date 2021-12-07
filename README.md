@@ -49,4 +49,4 @@ Thanks to:
     Alexander R. Pruss for the mapgen
     HoerMirAuf for fix idea for the Moon mapgen
     and all used mods collaborators
-    
+    Wuzzy for the review of the first version
