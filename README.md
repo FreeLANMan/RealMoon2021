@@ -3,7 +3,8 @@ Game mod for Minetest 5.4.1 simulating Moon colonization
 
 You are selected to be one of the first settlers in a Moon colony and have the mission of surviving in this new world. The habitat is ready to use and you (supposed to) have the tools that you need. You start at the Tycho crater, LQ26 quadrangle, Nearside, Moon. Good Luck!
 
-Focus: Single player simulation, LAN multiplayer.
+Focus: Single player simulation, LAN multiplayer, sandbox.
+Objectives: survive, thrive, be self-sustaining.
 
 Features:
 
