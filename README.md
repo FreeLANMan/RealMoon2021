@@ -25,6 +25,10 @@ New Features 2021:
     - regolith x4 -> high FeO regolith (+lowFeOregolith x3) 
     - highFeOregolith + cook -> moldedregolith
     
+Know bugs:
+
+    In some O.S. you have to rename 'Mods' with 'mods'.
+    
 Possibles future features:
 
     Real Moon geology
