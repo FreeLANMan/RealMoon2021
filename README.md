@@ -38,7 +38,7 @@ Possibles future features:
     
 Tips:
 
-    Use the airpump to eliminate the vacuum inside a building.
+    Use the airpump to eliminate the vacuum inside a building. Put the airpump in the center of 3x3x3 blocks.
     Use the aircompressor to recharge the air tanks.
     Soil becomes gravel in contact with vacuum.
     Make another habitat.
